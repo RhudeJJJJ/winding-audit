@@ -1,0 +1,182 @@
+[
+ {
+  "samples": 1500,
+  "field_tilt_median_deg": 3.562414898496199,
+  "ct_at_surface_median": 109.3477849450428,
+  "outside_fraction": 0.0,
+  "empty_fraction": 0.0,
+  "profile_peak_offset_vox": 3.0,
+  "profile_peak_to_edge": 1.1511660745770815,
+  "bbox_xyz": [
+   [
+    2963.6953125,
+    5306.8388671875,
+    11083.4970703125
+   ],
+   [
+    4250.04638671875,
+    6947.79052734375,
+    13077.0224609375
+   ]
+  ],
+  "volume_shape_zyx": [
+   24298,
+   9867,
+   9867
+  ],
+  "bbox_outside_volume": false,
+  "verdict": "on_papyrus",
+  "surface": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc0800/segments/20251028213516-auto_grown_20251028213516907/mesh/20251028213516-on-20250521135224-8.64um.tifxyz/",
+  "level": 0
+ },
+ {
+  "samples": 1500,
+  "field_tilt_median_deg": 3.3362557989706296,
+  "ct_at_surface_median": 107.61888899630867,
+  "outside_fraction": 0.0,
+  "empty_fraction": 0.0,
+  "profile_peak_offset_vox": 2.0,
+  "profile_peak_to_edge": 1.0886510316128342,
+  "bbox_xyz": [
+   [
+    2956.458740234375,
+    5488.59423828125,
+    11151.9619140625
+   ],
+   [
+    4280.96826171875,
+    6844.96484375,
+    13034.0966796875
+   ]
+  ],
+  "volume_shape_zyx": [
+   24298,
+   9867,
+   9867
+  ],
+  "bbox_outside_volume": false,
+  "verdict": "on_papyrus",
+  "surface": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc0800/segments/20251028220042-auto_grown_20251028220042762/mesh/20251028220042-on-20250521135224-8.64um.tifxyz/",
+  "level": 0
+ },
+ {
+  "samples": 1500,
+  "field_tilt_median_deg": 3.403763925392428,
+  "ct_at_surface_median": 113.33498380845413,
+  "outside_fraction": 0.0,
+  "empty_fraction": 0.0,
+  "profile_peak_offset_vox": 2.0,
+  "profile_peak_to_edge": 1.1668230221587796,
+  "bbox_xyz": [
+   [
+    3083.927001953125,
+    5391.02587890625,
+    10986.3974609375
+   ],
+   [
+    4314.04833984375,
+    6913.109375,
+    12902.7060546875
+   ]
+  ],
+  "volume_shape_zyx": [
+   24298,
+   9867,
+   9867
+  ],
+  "bbox_outside_volume": false,
+  "verdict": "on_papyrus",
+  "surface": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc0800/segments/20251028220955-auto_grown_20251028220955262/mesh/20251028220955-on-20250521135224-8.64um.tifxyz/",
+  "level": 0
+ },
+ {
+  "samples": 1500,
+  "field_tilt_median_deg": 3.6753678622509836,
+  "ct_at_surface_median": 107.54322947422042,
+  "outside_fraction": 0.0,
+  "empty_fraction": 0.0,
+  "profile_peak_offset_vox": 3.0,
+  "profile_peak_to_edge": 1.0341285497904964,
+  "bbox_xyz": [
+   [
+    2926.172607421875,
+    5152.0693359375,
+    10860.3330078125
+   ],
+   [
+    4423.8154296875,
+    7032.79833984375,
+    13188.8330078125
+   ]
+  ],
+  "volume_shape_zyx": [
+   24298,
+   9867,
+   9867
+  ],
+  "bbox_outside_volume": false,
+  "verdict": "no_layer_at_surface",
+  "surface": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc0800/segments/20251028222030-auto_grown_20251028222030940/mesh/20251028222030-on-20250521135224-8.64um.tifxyz/",
+  "level": 0
+ },
+ {
+  "samples": 1500,
+  "field_tilt_median_deg": 4.693669721299623,
+  "ct_at_surface_median": 108.27635087212548,
+  "outside_fraction": 0.0,
+  "empty_fraction": 0.0,
+  "profile_peak_offset_vox": 1.0,
+  "profile_peak_to_edge": 1.0493124878059583,
+  "bbox_xyz": [
+   [
+    2891.698974609375,
+    5364.5576171875,
+    11106.2578125
+   ],
+   [
+    4252.9833984375,
+    6975.5068359375,
+    13243.2177734375
+   ]
+  ],
+  "volume_shape_zyx": [
+   24298,
+   9867,
+   9867
+  ],
+  "bbox_outside_volume": false,
+  "verdict": "on_papyrus",
+  "surface": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc0800/segments/20251028225813-auto_grown_20251028225813045/mesh/20251028225813-on-20250521135224-8.64um.tifxyz/",
+  "level": 0
+ },
+ {
+  "samples": 1337,
+  "field_tilt_median_deg": 3.9219127740974034,
+  "ct_at_surface_median": 108.62914180755615,
+  "outside_fraction": 0.0,
+  "empty_fraction": 0.0,
+  "profile_peak_offset_vox": 2.0,
+  "profile_peak_to_edge": 1.0842812132587905,
+  "bbox_xyz": [
+   [
+    3089.978515625,
+    5907.083984375,
+    11617.8837890625
+   ],
+   [
+    3703.01904296875,
+    6614.24560546875,
+    12497.9765625
+   ]
+  ],
+  "volume_shape_zyx": [
+   24298,
+   9867,
+   9867
+  ],
+  "bbox_outside_volume": false,
+  "verdict": "on_papyrus",
+  "surface": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc0800/segments/20251029010146-auto_grown_20251029010146642/mesh/20251029010146-on-20250521135224-8.64um.tifxyz/",
+  "level": 0
+ }
+]

@@ -1,0 +1,41 @@
+{
+ "spacing_vox": 55.0,
+ "pairs": {
+  "0->1": {
+   "coincide_fraction": 0.8226787110223226,
+   "coincide_sample_count": 184208,
+   "coincide_threshold_vox": 12.0,
+   "fraction_basis": "directional sampled grid vertices of b near vertices of a; not area",
+   "n": 1473,
+   "n_normal_hits": 1959,
+   "n_same_side_hits": 1473,
+   "distance_median_vox": 0.0,
+   "windings_median": 0.0,
+   "windings_q25": 0.0,
+   "windings_q75": 0.0,
+   "field_valid_distance_median_vox": 0.0,
+   "verdict": "duplicate",
+   "a": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc0139/segments/20260126000000-w045_2026012619/mesh/20260126000000-on-20260102150214-2.399um.tifxyz/",
+   "b": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc0139/segments/20260325000000-w046_20260325/mesh/20260325000000-on-20260102150214-2.399um.tifxyz/",
+   "spacing_ratio": 0.0
+  },
+  "1->2": {
+   "coincide_fraction": 0.00394264058626301,
+   "coincide_sample_count": 183126,
+   "coincide_threshold_vox": 12.0,
+   "fraction_basis": "directional sampled grid vertices of b near vertices of a; not area",
+   "n": 1588,
+   "n_normal_hits": 1596,
+   "n_same_side_hits": 1588,
+   "distance_median_vox": 116.0,
+   "windings_median": 2.1293800981573345,
+   "windings_q25": 1.7481769140166326,
+   "windings_q75": 2.4437214281644413,
+   "field_valid_distance_median_vox": 116.0,
+   "verdict": "gap",
+   "a": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc0139/segments/20260325000000-w046_20260325/mesh/20260325000000-on-20260102150214-2.399um.tifxyz/",
+   "b": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc0139/segments/20260206000001-w047_2026020613/mesh/20260206000001-on-20260102150214-2.399um.tifxyz/",
+   "spacing_ratio": 2.109090909090909
+  }
+ }
+}

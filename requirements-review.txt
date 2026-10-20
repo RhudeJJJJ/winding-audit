@@ -1,0 +1,11 @@
+# Tested review environment; not a complete dependency lock.
+# Python 3.12.14
+numpy==2.3.5
+scipy==1.17.0
+numcodecs==0.17.0
+tifffile==2026.10.15
+imagecodecs==2026.10.10
+requests==2.34.2
+matplotlib==3.10.8
+pytest==9.1.1
+setuptools==84.0.0

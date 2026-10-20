@@ -1,0 +1,90 @@
+{
+  "w042->w041": {
+    "source": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc0139/segments/20260206000000-w042_2026020613/mesh/20260206000000-on-20260102150214-2.399um.tifxyz/",
+    "target": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc0139/segments/20260108000000-w041_2026010816/mesh/20260108000000-on-20260102150214-2.399um.tifxyz/",
+    "basis": "valid vertices on every fourth grid row and column; nearest full-resolution target vertex; not area",
+    "samples": 98340,
+    "distance_percentiles_vox": {
+      "10": 6.467830085286433,
+      "25": 8.906248420563639,
+      "50": 12.376129060348664,
+      "75": 30.247592896275123,
+      "90": 65.79350952688759
+    },
+    "fraction_below_vox": {
+      "6": 0.08097417124262762,
+      "8": 0.1856619890176937,
+      "10": 0.3402277811673785,
+      "12": 0.4799877974374619,
+      "16": 0.6061826316859874,
+      "20": 0.6653853976001627,
+      "30": 0.7483119788488916
+    }
+  },
+  "w041->w042": {
+    "source": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc0139/segments/20260108000000-w041_2026010816/mesh/20260108000000-on-20260102150214-2.399um.tifxyz/",
+    "target": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc0139/segments/20260206000000-w042_2026020613/mesh/20260206000000-on-20260102150214-2.399um.tifxyz/",
+    "basis": "valid vertices on every fourth grid row and column; nearest full-resolution target vertex; not area",
+    "samples": 102872,
+    "distance_percentiles_vox": {
+      "10": 6.509269076756079,
+      "25": 9.010478117231756,
+      "50": 12.759619003725614,
+      "75": 35.25462905580553,
+      "90": 75.8887188327931
+    },
+    "fraction_below_vox": {
+      "6": 0.07971070845322342,
+      "8": 0.1805544754646551,
+      "10": 0.3292052259118127,
+      "12": 0.46306089120460375,
+      "16": 0.5835504316043238,
+      "20": 0.6396298312465977,
+      "30": 0.7201473676024575
+    }
+  },
+  "w046->w045": {
+    "source": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc0139/segments/20260325000000-w046_20260325/mesh/20260325000000-on-20260102150214-2.399um.tifxyz/",
+    "target": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc0139/segments/20260126000000-w045_2026012619/mesh/20260126000000-on-20260102150214-2.399um.tifxyz/",
+    "basis": "valid vertices on every fourth grid row and column; nearest full-resolution target vertex; not area",
+    "samples": 103617,
+    "distance_percentiles_vox": {
+      "10": 3.1098019714106497,
+      "25": 5.227513886720154,
+      "50": 7.89245221727399,
+      "75": 10.052858934803647,
+      "90": 40.95741389780501
+    },
+    "fraction_below_vox": {
+      "6": 0.31622224152407424,
+      "8": 0.5122228977870427,
+      "10": 0.7451672988023201,
+      "12": 0.8232818938977194,
+      "16": 0.8439734792553345,
+      "20": 0.8516459654303831,
+      "30": 0.8714496655954139
+    }
+  },
+  "w045->w046": {
+    "source": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc0139/segments/20260126000000-w045_2026012619/mesh/20260126000000-on-20260102150214-2.399um.tifxyz/",
+    "target": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc0139/segments/20260325000000-w046_20260325/mesh/20260325000000-on-20260102150214-2.399um.tifxyz/",
+    "basis": "valid vertices on every fourth grid row and column; nearest full-resolution target vertex; not area",
+    "samples": 103299,
+    "distance_percentiles_vox": {
+      "10": 3.1113590517235097,
+      "25": 5.225039089269044,
+      "50": 7.877939069370421,
+      "75": 10.029991023352645,
+      "90": 40.95796529303709
+    },
+    "fraction_below_vox": {
+      "6": 0.3157823405841296,
+      "8": 0.5138675108181106,
+      "10": 0.7470740278221474,
+      "12": 0.8243739048780724,
+      "16": 0.8445870724789204,
+      "20": 0.8515280883648438,
+      "30": 0.8715282819775603
+    }
+  }
+}

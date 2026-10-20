@@ -1,0 +1,452 @@
+[
+ {
+  "samples": 1500,
+  "field_tilt_median_deg": 64.30746780886516,
+  "ct_at_surface_median": 0.0,
+  "outside_fraction": 0.04133333333333333,
+  "empty_fraction": 0.9123783031988874,
+  "profile_peak_offset_vox": -1.0,
+  "profile_peak_to_edge": 1.0586690767785278,
+  "bbox_xyz": [
+   [
+    4492.0791015625,
+    2643.1572265625,
+    22132.142578125
+   ],
+   [
+    5760.6591796875,
+    4570.40966796875,
+    24653.98828125
+   ]
+  ],
+  "volume_shape_zyx": [
+   24297,
+   8343,
+   8343
+  ],
+  "bbox_outside_volume": true,
+  "verdict": "on_empty_voxels",
+  "surface": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc1447/segments/20250502180708-auto_grown_20250502160708188/mesh/20250502180708-on-20250521151220-8.64um.tifxyz/",
+  "level": 0
+ },
+ {
+  "samples": 1500,
+  "field_tilt_median_deg": 42.941115230524616,
+  "ct_at_surface_median": 0.0,
+  "outside_fraction": 0.05066666666666664,
+  "empty_fraction": 0.6088483146067416,
+  "profile_peak_offset_vox": -6.0,
+  "profile_peak_to_edge": 1.0175367763306633,
+  "bbox_xyz": [
+   [
+    4068.871337890625,
+    2511.63232421875,
+    20826.22265625
+   ],
+   [
+    5800.3388671875,
+    3965.89306640625,
+    24680.328125
+   ]
+  ],
+  "volume_shape_zyx": [
+   24297,
+   8343,
+   8343
+  ],
+  "bbox_outside_volume": true,
+  "verdict": "on_empty_voxels",
+  "surface": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc1447/segments/20250502180748-auto_grown_20250502160748721/mesh/20250502180748-on-20250521151220-8.64um.tifxyz/",
+  "level": 0
+ },
+ {
+  "samples": 1500,
+  "field_tilt_median_deg": 44.73986417036653,
+  "ct_at_surface_median": 59.65178096154705,
+  "outside_fraction": 0.0,
+  "empty_fraction": 0.428,
+  "profile_peak_offset_vox": -12.0,
+  "profile_peak_to_edge": 1.016340189503646,
+  "bbox_xyz": [
+   [
+    4108.11767578125,
+    2276.073974609375,
+    20395.701171875
+   ],
+   [
+    5985.27392578125,
+    3992.03662109375,
+    23936.072265625
+   ]
+  ],
+  "volume_shape_zyx": [
+   24297,
+   8343,
+   8343
+  ],
+  "bbox_outside_volume": false,
+  "verdict": "no_layer_at_surface",
+  "surface": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc1447/segments/20250502182142-auto_grown_20250502161324419/mesh/20250502182142-on-20250521151220-8.64um.tifxyz/",
+  "level": 0
+ },
+ {
+  "samples": 1500,
+  "field_tilt_median_deg": 51.51052377446976,
+  "ct_at_surface_median": 0.0,
+  "outside_fraction": 0.1246666666666667,
+  "empty_fraction": 0.5788271134805788,
+  "profile_peak_offset_vox": -6.0,
+  "profile_peak_to_edge": 1.0281982232267963,
+  "bbox_xyz": [
+   [
+    4060.064208984375,
+    2793.441162109375,
+    20494.3046875
+   ],
+   [
+    5786.1357421875,
+    4619.37451171875,
+    24957.19921875
+   ]
+  ],
+  "volume_shape_zyx": [
+   24297,
+   8343,
+   8343
+  ],
+  "bbox_outside_volume": true,
+  "verdict": "on_empty_voxels",
+  "surface": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc1447/segments/20250502182456-auto_grown_20250502161202782/mesh/20250502182456-on-20250521151220-8.64um.tifxyz/",
+  "level": 0
+ },
+ {
+  "samples": 1500,
+  "field_tilt_median_deg": 50.70726443854491,
+  "ct_at_surface_median": 0.0,
+  "outside_fraction": 0.0,
+  "empty_fraction": 0.528,
+  "profile_peak_offset_vox": 8.0,
+  "profile_peak_to_edge": 1.0106645883160306,
+  "bbox_xyz": [
+   [
+    4478.38623046875,
+    2663.142822265625,
+    21115.796875
+   ],
+   [
+    5529.19189453125,
+    4107.76513671875,
+    24113.267578125
+   ]
+  ],
+  "volume_shape_zyx": [
+   24297,
+   8343,
+   8343
+  ],
+  "bbox_outside_volume": false,
+  "verdict": "on_empty_voxels",
+  "surface": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc1447/segments/20250502183138-auto_grown_20250502162038685/mesh/20250502183138-on-20250521151220-8.64um.tifxyz/",
+  "level": 0
+ },
+ {
+  "samples": 1500,
+  "field_tilt_median_deg": 49.77925451669877,
+  "ct_at_surface_median": 0.0,
+  "outside_fraction": 0.018000000000000016,
+  "empty_fraction": 0.6463000678886626,
+  "profile_peak_offset_vox": 7.0,
+  "profile_peak_to_edge": 1.0106404898289236,
+  "bbox_xyz": [
+   [
+    4258.67578125,
+    2544.00634765625,
+    20911.87890625
+   ],
+   [
+    5673.837890625,
+    4312.25830078125,
+    24560.95703125
+   ]
+  ],
+  "volume_shape_zyx": [
+   24297,
+   8343,
+   8343
+  ],
+  "bbox_outside_volume": true,
+  "verdict": "on_empty_voxels",
+  "surface": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc1447/segments/20250502183421-auto_grown_20250502161744358/mesh/20250502183421-on-20250521151220-8.64um.tifxyz/",
+  "level": 0
+ },
+ {
+  "samples": 1500,
+  "field_tilt_median_deg": 67.66987214235193,
+  "ct_at_surface_median": 0.0,
+  "outside_fraction": 0.19333333333333336,
+  "empty_fraction": 0.5776859504132231,
+  "profile_peak_offset_vox": -4.0,
+  "profile_peak_to_edge": 1.012779904951125,
+  "bbox_xyz": [
+   [
+    4430.794921875,
+    2673.358642578125,
+    21530.642578125
+   ],
+   [
+    5574.6796875,
+    4620.16650390625,
+    24960.978515625
+   ]
+  ],
+  "volume_shape_zyx": [
+   24297,
+   8343,
+   8343
+  ],
+  "bbox_outside_volume": true,
+  "verdict": "on_empty_voxels",
+  "surface": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc1447/segments/20250502184201-auto_grown_20250502163549332/mesh/20250502184201-on-20250521151220-8.64um.tifxyz/",
+  "level": 0
+ },
+ {
+  "samples": 1500,
+  "field_tilt_median_deg": 60.42753394222072,
+  "ct_at_surface_median": 0.0,
+  "outside_fraction": 0.17400000000000004,
+  "empty_fraction": 0.5278450363196125,
+  "profile_peak_offset_vox": -7.0,
+  "profile_peak_to_edge": 1.0128059972290762,
+  "bbox_xyz": [
+   [
+    4295.484375,
+    2836.774658203125,
+    20969.94140625
+   ],
+   [
+    5584.4453125,
+    4517.95458984375,
+    24968.828125
+   ]
+  ],
+  "volume_shape_zyx": [
+   24297,
+   8343,
+   8343
+  ],
+  "bbox_outside_volume": true,
+  "verdict": "on_empty_voxels",
+  "surface": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc1447/segments/20250502184658-auto_grown_20250502163923577/mesh/20250502184658-on-20250521151220-8.64um.tifxyz/",
+  "level": 0
+ },
+ {
+  "samples": 1500,
+  "field_tilt_median_deg": 66.26712420009049,
+  "ct_at_surface_median": 78.59525656700134,
+  "outside_fraction": 0.1486666666666666,
+  "empty_fraction": 0.4032889584964761,
+  "profile_peak_offset_vox": 11.0,
+  "profile_peak_to_edge": 1.01612109601868,
+  "bbox_xyz": [
+   [
+    4087.489990234375,
+    2745.379638671875,
+    20568.05078125
+   ],
+   [
+    5532.197265625,
+    4687.91162109375,
+    24973.939453125
+   ]
+  ],
+  "volume_shape_zyx": [
+   24297,
+   8343,
+   8343
+  ],
+  "bbox_outside_volume": true,
+  "verdict": "no_layer_at_surface",
+  "surface": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc1447/segments/20250502184845-auto_grown_20250502164121265/mesh/20250502184845-on-20250521151220-8.64um.tifxyz/",
+  "level": 0
+ },
+ {
+  "samples": 1500,
+  "field_tilt_median_deg": 66.62225842645157,
+  "ct_at_surface_median": 0.0,
+  "outside_fraction": 0.07599999999999996,
+  "empty_fraction": 0.5396825396825397,
+  "profile_peak_offset_vox": 7.0,
+  "profile_peak_to_edge": 1.0180910256932265,
+  "bbox_xyz": [
+   [
+    4260.8076171875,
+    2610.01416015625,
+    21608.349609375
+   ],
+   [
+    5480.6875,
+    4786.974609375,
+    24662.490234375
+   ]
+  ],
+  "volume_shape_zyx": [
+   24297,
+   8343,
+   8343
+  ],
+  "bbox_outside_volume": true,
+  "verdict": "on_empty_voxels",
+  "surface": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc1447/segments/20250502185519-auto_grown_20250502164303733/mesh/20250502185519-on-20250521151220-8.64um.tifxyz/",
+  "level": 0
+ },
+ {
+  "samples": 1500,
+  "field_tilt_median_deg": 69.89933480901895,
+  "ct_at_surface_median": 99.49112295161467,
+  "outside_fraction": 0.0,
+  "empty_fraction": 0.0,
+  "profile_peak_offset_vox": 6.0,
+  "profile_peak_to_edge": 1.015287058220739,
+  "bbox_xyz": [
+   [
+    3107.0654296875,
+    3047.3935546875,
+    12615.6357421875
+   ],
+   [
+    4115.54443359375,
+    4640.45361328125,
+    15980.853515625
+   ]
+  ],
+  "volume_shape_zyx": [
+   24297,
+   8343,
+   8343
+  ],
+  "bbox_outside_volume": false,
+  "verdict": "no_layer_at_surface",
+  "surface": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc1447/segments/20250502205333-auto_grown_20250502181030065/mesh/20250502205333-on-20250521151220-8.64um.tifxyz/",
+  "level": 0
+ },
+ {
+  "samples": 1500,
+  "field_tilt_median_deg": 3.042229512992833,
+  "ct_at_surface_median": 112.21330506168306,
+  "outside_fraction": 0.0,
+  "empty_fraction": 0.0,
+  "profile_peak_offset_vox": 2.0,
+  "profile_peak_to_edge": 1.171949507772651,
+  "bbox_xyz": [
+   [
+    2628.511962890625,
+    2232.8681640625,
+    11306.8544921875
+   ],
+   [
+    5607.138671875,
+    3289.09814453125,
+    14097.462890625
+   ]
+  ],
+  "volume_shape_zyx": [
+   24297,
+   8343,
+   8343
+  ],
+  "bbox_outside_volume": false,
+  "verdict": "on_papyrus",
+  "surface": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc1447/segments/20250702235910-auto_grown_20250702235910292/mesh/20250702235910-on-20250521151220-8.64um.tifxyz/",
+  "level": 0
+ },
+ {
+  "samples": 1500,
+  "field_tilt_median_deg": 2.858100174792412,
+  "ct_at_surface_median": 121.43525319272885,
+  "outside_fraction": 0.0,
+  "empty_fraction": 0.0,
+  "profile_peak_offset_vox": 1.0,
+  "profile_peak_to_edge": 1.166233740849151,
+  "bbox_xyz": [
+   [
+    2499.520751953125,
+    2692.083984375,
+    3016.423828125
+   ],
+   [
+    6045.98779296875,
+    4751.4453125,
+    6964.19873046875
+   ]
+  ],
+  "volume_shape_zyx": [
+   24297,
+   8343,
+   8343
+  ],
+  "bbox_outside_volume": false,
+  "verdict": "on_papyrus",
+  "surface": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc1447/segments/20250703025628-auto_grown_20250703025628283/mesh/20250703025628-on-20250521151220-8.64um.tifxyz/",
+  "level": 0
+ },
+ {
+  "samples": 1500,
+  "field_tilt_median_deg": 2.988602212532749,
+  "ct_at_surface_median": 112.21902843017597,
+  "outside_fraction": 0.0,
+  "empty_fraction": 0.0,
+  "profile_peak_offset_vox": 3.0,
+  "profile_peak_to_edge": 1.129476123592292,
+  "bbox_xyz": [
+   [
+    1922.40966796875,
+    2821.185302734375,
+    3693.2548828125
+   ],
+   [
+    4446.41796875,
+    5507.1015625,
+    7194.19677734375
+   ]
+  ],
+  "volume_shape_zyx": [
+   24297,
+   8343,
+   8343
+  ],
+  "bbox_outside_volume": false,
+  "verdict": "on_papyrus",
+  "surface": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc1447/segments/20250703034159-auto_grown_20250703034159599/mesh/20250703034159-on-20250521151220-8.64um.tifxyz/",
+  "level": 0
+ },
+ {
+  "samples": 1500,
+  "field_tilt_median_deg": 2.9283110330818225,
+  "ct_at_surface_median": 106.84565643628594,
+  "outside_fraction": 0.0,
+  "empty_fraction": 0.009333333333333334,
+  "profile_peak_offset_vox": 1.0,
+  "profile_peak_to_edge": 1.0795900463840098,
+  "bbox_xyz": [
+   [
+    2136.60791015625,
+    1624.433349609375,
+    5838.3193359375
+   ],
+   [
+    5437.6337890625,
+    3535.28662109375,
+    15276.9951171875
+   ]
+  ],
+  "volume_shape_zyx": [
+   24297,
+   8343,
+   8343
+  ],
+  "bbox_outside_volume": false,
+  "verdict": "on_papyrus",
+  "surface": "https://vesuvius-challenge-open-data.s3.us-east-1.amazonaws.com/PHerc1447/segments/20251105093211-z_dbg_gen_00320/mesh/20251105093211-on-20250521151220-8.64um.tifxyz/",
+  "level": 0
+ }
+]

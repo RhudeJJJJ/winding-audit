@@ -1,0 +1,33 @@
+{
+ "volume": "20251217075048",
+ "segments": {
+  "40": "20260203210000-w040_2026020321_flatboi",
+  "41": "20260205070000-w041_2026020507_flatboi"
+ },
+ "slices": {
+  "w040 at z=15000": {
+   "vertices": 243,
+   "on_masked_voxels": 0.9958847736625515,
+   "distance_outside_mask_median_vox": 422.4121210382107,
+   "distance_outside_mask_max_vox": 992.0
+  },
+  "w041 at z=15000": {
+   "vertices": 343,
+   "on_masked_voxels": 1.0,
+   "distance_outside_mask_median_vox": 546.1135413080324,
+   "distance_outside_mask_max_vox": 1283.5949516884211
+  },
+  "w040 at z=31000": {
+   "vertices": 332,
+   "on_masked_voxels": 0.7078313253012049,
+   "distance_outside_mask_median_vox": 208.0,
+   "distance_outside_mask_max_vox": 586.787866268552
+  },
+  "w041 at z=31000": {
+   "vertices": 312,
+   "on_masked_voxels": 0.7467948717948718,
+   "distance_outside_mask_median_vox": 257.9922479455536,
+   "distance_outside_mask_max_vox": 651.3002379855238
+  }
+ }
+}

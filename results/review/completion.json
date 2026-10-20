@@ -1,0 +1,58 @@
+{
+  "completed_utc": "2026-10-20T10:35:41.666186+00:00",
+  "code_version": "0.1.1",
+  "full_placement_review_complete": true,
+  "placement": {
+    "may": {
+      "surfaces": 11,
+      "verdicts": {
+        "on_empty_voxels": 8,
+        "no_layer_at_surface": 3
+      },
+      "tilt_median_range_deg": [
+        42.94111523052462,
+        69.89933480901895
+      ]
+    },
+    "later": {
+      "surfaces": 4,
+      "verdicts": {
+        "on_papyrus": 4
+      },
+      "tilt_median_range_deg": [
+        2.8581001747924755,
+        3.042229512992773
+      ]
+    }
+  },
+  "max_absolute_difference_from_original_measurements": {
+    "field_tilt_median_deg": 6.350475700855895e-14,
+    "ct_at_surface_median": 0.0,
+    "outside_fraction": 0.0,
+    "empty_fraction": 0.0,
+    "profile_peak_to_edge": 4.440892098500626e-16,
+    "profile_peak_offset_vox": 0.0
+  },
+  "review_suite": {
+    "tests": 18,
+    "passed": 18,
+    "fresh_installed_wheel_tests": 18
+  },
+  "source_archive_sha256": "ee9cdf3ad675f2354460bc3016c73fc1812134675cf5652280e8a744afa1dd89",
+  "reproduced": [
+    "directional overlap PHerc139 41/42 and 45/46, both directions",
+    "key three-surface PHerc139 chain",
+    "PHerc139 duplicate CT strip",
+    "PHerc1667 support slices",
+    "planted real-data control",
+    "all 15 PHerc1447 placements at original sampling density"
+  ],
+  "not_fully_rerun": [
+    "original 51-pair chains",
+    "PHercParis4 self-hits",
+    "PHerc0800 and PHerc0814 exploratory audits"
+  ],
+  "human_adjudication": false,
+  "published": false,
+  "submitted": false
+}

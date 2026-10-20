@@ -1,0 +1,50 @@
+{
+ "block_rows": [
+  560,
+  700
+ ],
+ "block_cols": [
+  750,
+  950
+ ],
+ "crop": [
+  450,
+  810,
+  640,
+  1060
+ ],
+ "variants": {
+  "original": {
+   "threshold_only": {
+    "vertices_far_flagged": 0.08782968453714876,
+    "line_sensitivity": 0.2125
+   },
+   "plateau_criterion": {
+    "vertices_far_flagged": 0.02266365202411714,
+    "line_sensitivity": 0.1
+   }
+  },
+  "planted_ramp0": {
+   "threshold_only": {
+    "vertices_far_flagged": 0.08782968453714876,
+    "line_sensitivity": 0.7571428571428571
+   },
+   "plateau_criterion": {
+    "vertices_far_flagged": 0.02266365202411714,
+    "line_sensitivity": 0.37142857142857144
+   },
+   "step_at_block_edge_median": 1.1036143630700095
+  },
+  "planted_ramp6": {
+   "threshold_only": {
+    "vertices_far_flagged": 0.08782968453714876,
+    "line_sensitivity": 0.8107142857142857
+   },
+   "plateau_criterion": {
+    "vertices_far_flagged": 0.02266365202411714,
+    "line_sensitivity": 0.33214285714285713
+   },
+   "step_at_block_edge_median": 1.0857600713119238
+  }
+ }
+}

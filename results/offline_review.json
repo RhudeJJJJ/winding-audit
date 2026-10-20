@@ -1,0 +1,116 @@
+{
+  "scope": "Offline arithmetic checks of bundled v0.1.0 results; no raw-data validation.",
+  "chains": {
+    "PHerc0139": {
+      "pairs": 36,
+      "flags": {
+        "w041->w042": "duplicate",
+        "w045->w046": "duplicate",
+        "w046->w047": "gap"
+      }
+    },
+    "PHerc1667": {
+      "pairs": 15,
+      "flags": {
+        "w040->w041": "check"
+      }
+    }
+  },
+  "overlap": {
+    "segments": {
+      "45": "20260126000000-w045_2026012619",
+      "46": "20260325000000-w046_20260325",
+      "47": "20260206000001-w047_2026020613"
+    },
+    "w046_within_12vox_of_w045": 0.8232818938977194,
+    "w046_30vox_or_more_from_w045": 0.12855033440458613,
+    "median_distance_w046_to_w045_vox": 7.89245221727399
+  },
+  "selected_pairs": 33,
+  "walks": 56695,
+  "pooled_median": 1.0627,
+  "pooled_quartiles": [
+    0.8628,
+    1.2752
+  ],
+  "median_of_pair_medians": 1.0483,
+  "pair_median_range": [
+    0.8521,
+    1.1579
+  ],
+  "gap_bins": [
+    {
+      "gap_vox": [
+        20,
+        40
+      ],
+      "walks": 9662,
+      "pairs": 33,
+      "pooled_median": 0.77545,
+      "median_of_pair_bin_medians": 0.7591
+    },
+    {
+      "gap_vox": [
+        40,
+        60
+      ],
+      "walks": 16863,
+      "pairs": 33,
+      "pooled_median": 1.0598,
+      "median_of_pair_bin_medians": 1.0582
+    },
+    {
+      "gap_vox": [
+        60,
+        80
+      ],
+      "walks": 11299,
+      "pairs": 33,
+      "pooled_median": 1.1571,
+      "median_of_pair_bin_medians": 1.1547
+    },
+    {
+      "gap_vox": [
+        80,
+        100
+      ],
+      "walks": 6178,
+      "pairs": 33,
+      "pooled_median": 1.1818,
+      "median_of_pair_bin_medians": 1.1708
+    },
+    {
+      "gap_vox": [
+        100,
+        140
+      ],
+      "walks": 5729,
+      "pairs": 33,
+      "pooled_median": 1.2096,
+      "median_of_pair_bin_medians": 1.21515
+    },
+    {
+      "gap_vox": [
+        140,
+        220
+      ],
+      "walks": 3368,
+      "pairs": 33,
+      "pooled_median": 1.2639,
+      "median_of_pair_bin_medians": 1.2624499999999999
+    }
+  ],
+  "placement_legacy": {
+    "early": 11,
+    "later": 4,
+    "early_tilt_range": [
+      42.941115230524616,
+      69.89933480901895
+    ],
+    "later_tilt_range": [
+      2.858100174792412,
+      3.042229512992833
+    ]
+  },
+  "caveat": "Selection uses the same field/geometry screen. Walks are correlated. Descriptive statistics, not unbiased calibration or sensitivity."
+}
